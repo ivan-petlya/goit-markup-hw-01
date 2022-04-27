@@ -1,7 +1,49 @@
-.main {
-    display: flex;
-    flex-direction: row-reverse;
-    width: 1200px;
-    margin: 0 auto;
+/* .main{
+width: 1600px;
 }
-
+.header 
+{
+display: inline-block;
+ width: 1600px;
+    height: 80px;
+    }
+.webstudio-logo, .webstudio-logo-blue{
+    margin-left: 215px;
+    margin-top: 25px;
+    width: 145px;
+    height: 31px;
+    color: #2196F3;
+    text-decoration: none;
+}
+.webstudio-logo-black {
+    color: black;
+}
+.contacts-header{
+    font-weight: 500;
+    font-size: 14px;
+      color: #2196F3;
+      display: inline;
+}
+.items-header{
+    margin-left: 0px;
+    flex-direction: row;
+}
+.block-with-button
+{
+    position: absolute;
+    width: 1600px;
+    height: 600px;
+    left: 0px;
+    top: 80px;
+    background: #2F303A;
+    margin-top: 80px;
+}
+.main-txt{
+  
+          font-style: normal;
+        font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+     text-transform: uppercase;
+      color: #FFFFFF;
+} */
